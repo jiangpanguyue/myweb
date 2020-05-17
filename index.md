@@ -1,37 +1,44 @@
-## 尝试一下下 做一个网页
 
-You can use the [editor on GitHub](https://github.com/jiangpanguyue/myweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+  <title>这是一个自制网页</title>
+</head>
+<body style="background:cyan;>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<table border="0" cellpadding="0" cellspacing="20">
+<tr>
+<td><img src="images/picture1.jpg" width="100px"  height="100px" alt="图片已丢失或损坏"/></td>
+<td><audio src="Windy Hill.mp3"  controls  loop></audio></td>
+<td><video  width="420" height="250" src="oppor9手机广告.mp4"  controls  loop></video></td>
+<td><video  width="420" height="250" src="../../../../../F:/剪辑/羽肿 - Windy Hill.mp4"  controls  loop></video></td>
 
-### Markdown
+</tr></table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangpanguyue/myweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<b><font size="8" color="red"><center>静夜思  </center></font></b>
+<center>
+<p>床前明月光，</p>
+<p>疑是地上霜。</p>
+<p>举头望明月，</p>
+<p>低头思故乡。</p>
+<p><small><em><strong>作者：</strong></em><em><a href="images/李白.jpg" target="小窗口">李白</a></em></small></p>
+   </center>
+      <hr>
+   <center>
+<strong><font size="8" color="green"><center>春晓</center></font></strong>
+<p>春眠不觉晓，</p>
+<p>处处闻啼鸟。</p>
+<p>夜来风雨声，</p>
+<p>花落知多少。</p>
+<p><small><em><strong>作者：</strong></em><em>孟浩然</em></small></p>
+    </center>
+    
+<center><table border="0" cellpadding="20" cellspacing="0"><tr>
+<td><a href="https://baike.baidu.com/item/%E8%8B%8F%E8%BD%BC/53906?fr=aladdin" target="-blank"><img src="images/苏轼.jpg"  width="100" height="200"  alt="图片已丢失或损坏"></a></td>
+<td>
+           <b><center>《水调歌头》</center></b>
+           <i><center><small>丙辰中秋，欢饮达旦，大醉，作此篇，兼怀子由。</small></center></i><br>
+  明月几时有？把酒问青天。不知天上宫阙，今夕是何年？我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间?<br>转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。
+</td>
+</tr></table></center>
+<center><iframe seamless name="小窗口" src="http:www.baidu.com" width="1600" height="200"></iframe></center>
